@@ -1,0 +1,5 @@
+_site/
+build/
+!.gitignore
+*.swp
+*.DS_Store
